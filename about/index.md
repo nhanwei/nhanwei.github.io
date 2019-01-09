@@ -24,6 +24,7 @@ Above all, he is an **avid learner of all things data science**. Currently, he i
 
 ## Work Journey
 * PALO IT (Jul 2018 - Present): Data Scientist
+   * Explored POC for OCR, Object Detection, Sentiment Analysis (NLP)
 * DBS Bank (Oct 2016 - Jul 2018): Data Scientist
 * StarHub (Jun 2015 - Sep 2016): Data Analyst
 * *National University of Singapore (Oct 2014 - Feb 2015): Undergraduate Student Researcher*
