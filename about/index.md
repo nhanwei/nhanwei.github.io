@@ -1,12 +1,14 @@
 ---
 layout: page
-title: About the Theme
+title: About Han Wei
 tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center>Han Wei is a technical expert in Machine Learning with a professional passion in connecting the dots between business users and techies. He has strong hands-on experience in various areas of Data Science especially in marketing analytics and recommender systems. During his work, he has also enjoyed short stints in Australia, China and India. 
+
+Above all, he is an avid learner of all things in data science. Currently, he is interested in Transfer Learning and its application with Reinforcement Learning. </center>
 
 ## Features
 * Minimal, you can focus on your content
