@@ -12,19 +12,14 @@ Han Wei is a **technical expert in Machine Learning** with a professional passio
 
 He has strong hands-on experience in various areas of Data Science especially in **marketing analytics** and **recommender systems**. During his work, he has also **enjoyed short stints in Australia (2 weeks), China (2 months) and India (2.5 months).**
 
-Above all, he is an avid learner of all things in data science. Currently, he is interested in **Transfer Learning and its application with Reinforcement Learning.** 
+Above all, he is an **avid learner of all things data science**. Currently, he is interested in <a href="https://github.com/nhanwei/rl_1">**Transfer Learning and its application with Reinforcement Learning.** </a>
 
-## Key Technical 
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Key Data Science Toolkit
+* Python: Keras, Numpy, Pandas, Scipy, Scikit-learn, Matplotlib, NLTK, StanfordNLP, etc
+* R: Caret, H2O, Shiny, ggplot2, etc
+* Apache Spark (Pyspark)
+* Deep Learning Frameworks: Keras, TensorFlow (gradually moving to PyTorch)
+* Databases: Hbase, Hive, MongoDB
 
 ## Preview
 
