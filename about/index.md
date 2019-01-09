@@ -24,8 +24,12 @@ Above all, he is an **avid learner of all things data science**. Currently, he i
 
 ## Work Journey
 * PALO IT (Jul 2018 - Present): Data Scientist
-   * Explored POC for OCR, Object Detection, Sentiment Analysis (NLP)
+   * POCs for OCR, Object Detection, Sentiment Analysis (NLP)
 * DBS Bank (Oct 2016 - Jul 2018): Data Scientist
+   * (SG DBS Recommender System) Revamped how advertisements were recommended to internet/mobile banking customers from a rule based approach to a deep learning model. Spearheaded the implementation of <a href="https://arxiv.org/pdf/1606.07792.pdf">Wide and Deep Learning model</a> from scratch using Keras.
+   * (SG DBS Marketing) Various Upsell/Cross-sell/Acquisition models for  
+   * (HK DBS Marketing)
+   * () 
 * StarHub (Jun 2015 - Sep 2016): Data Analyst
 * *National University of Singapore (Oct 2014 - Feb 2015): Undergraduate Student Researcher*
 * *Infosys (Jun 2014 - Aug 2014): InStep Intern*
