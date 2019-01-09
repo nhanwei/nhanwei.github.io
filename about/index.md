@@ -6,7 +6,11 @@ date: 2016-03-21
 comments: false
 ---
     
-<center>Han Wei is a technical expert in Machine Learning with a professional passion in connecting the dots between business users and techies. He has strong hands-on experience in various areas of Data Science especially in marketing analytics and recommender systems. During his work, he has also enjoyed short stints in Australia, China and India. 
+<center>Han Wei is a technical expert in Machine Learning with a professional passion in connecting the dots between business users and techies. 
+
+
+He has strong hands-on experience in various areas of Data Science especially in marketing analytics and recommender systems. During his work, he has also enjoyed short stints in Australia, China and India. 
+
 
 Above all, he is an avid learner of all things in data science. Currently, he is interested in Transfer Learning and its application with Reinforcement Learning. </center>
 
