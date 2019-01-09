@@ -1,7 +1,7 @@
 # Site
 title:              Neo Han Wei
-bio:                'Data Scientist interested in connecting the dots between Data and Business. Based in Singapore.'
-description:        "Strong hands-on experience in building Machine Learning (ML) models, especially in marketing analytics and recommender systems. He has also travelled to Sydney, Bangalore and Shanghai to work on various data projects. Above all, he is an avid learner of all things in data science."
+bio:                'Data Scientist based in Singapore'
+description:        "Hands-on experience in building Machine Learning (ML) models. Not afraid of diving deep into the algorithms before applying on business problems. Above all, he is an avid learner of all things in data science."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
