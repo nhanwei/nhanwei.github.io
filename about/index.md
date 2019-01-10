@@ -23,25 +23,25 @@ Above all, he is an **avid learner of all things data science**. Currently, he i
 * Git
 
 ## Work Journey
-* PALO IT (Jul 2018 - Present): Data Scientist
+* **PALO IT** (Jul 2018 - Present): Data Scientist
    * POCs for OCR, Object Detection, Sentiment Analysis (NLP)
-* DBS Bank (Oct 2016 - Jul 2018): Data Scientist
+* **DBS Bank** (Oct 2016 - Jul 2018): Data Scientist
    * (SG DBS Recommender System) Revamped how advertisements were recommended to internet/mobile banking customers from a rule based approach to a deep learning model. Spearheaded the implementation of <a href="https://arxiv.org/pdf/1606.07792.pdf">Wide and Deep Learning model</a> from scratch using Keras.
    * (CN DBS Recommender System) User-Based Collaborative Filtering (UBCF) model for DBS China's Relationship Managers.
    * (SG DBS Marketing) Various propensity models for DBS Credit, Cards, Treasures, etc. 
    * (HK DBS Marketing) Various propensity models for DBS Treasures and Unit Trusts.
    * (CN DBS Marketing) Bancassurance Propensity model
-* StarHub (Jun 2015 - Sep 2016): Data Analyst
+* **StarHub** (Jun 2015 - Sep 2016): Data Analyst
    * Data mined raw, unstructured and structured telecommunication data using Apache Spark, Apache Pig, R and Python.
-* *National University of Singapore (Oct 2014 - Feb 2015): Undergraduate Student Researcher*
-* *Infosys (Jun 2014 - Aug 2014): InStep Intern*
+* ***National University of Singapore** (Oct 2014 - Feb 2015): Undergraduate Student Researcher*
+* ***Infosys** (Jun 2014 - Aug 2014): InStep Intern*
    * Flagship global internship program of Infosys
 
-*Undergraduate internship/part-time job*
+\**Undergraduate internship/part-time job*
 
 ## Education
-* 
-* 
+* National University of Singapore (2018 - 2019): Master's in Computer Science, Computer Science (On-going)
+* National University of Singapore (2011 - 2015): B.Sc. (Hons.), Statistics, Second Class Honours, Upper Division
 
 ## Getting Started
 
