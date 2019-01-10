@@ -43,8 +43,8 @@ Above all, he is an **avid learner of all things data science**. Currently, he i
 * National University of Singapore (2018 - 2019): Master's in Computer Science, Computer Science (On-going)
 * National University of Singapore (2011 - 2015): B.Sc. (Hons.), Statistics, Second Class Honours, Upper Division
 
-## Getting Started
+## Interested to Get Touch?
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+Add me at 
+
+[LinkedIn](https://www.linkedin.com/in/nhanwei/){: .btn}
