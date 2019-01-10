@@ -45,6 +45,4 @@ Above all, he is an **avid learner of all things data science**. Currently, he i
 
 ## Interested to Get Touch?
 
-Add me at 
-
-[LinkedIn](https://www.linkedin.com/in/nhanwei/){: .btn}
+Add me at [LinkedIn](https://www.linkedin.com/in/nhanwei/){: .btn}
