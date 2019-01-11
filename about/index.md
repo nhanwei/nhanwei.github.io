@@ -16,7 +16,8 @@ Above all, he is an **avid learner of all things data science**. Currently, he i
 
 ## Key Data Science Toolkit
 * **Python**: **Keras**, **XGBoost**, **lightGBM**, Numpy, Pandas, Scipy, **Scikit-learn**, Matplotlib, **NLTK, StanfordNLP**, etc
-* **R**: **Caret**, H2O, Shiny, ggplot2, **XGBoost**, etc
+* **R**: **Caret**, H2O, shiny, ggplot2, **XGBoost**, dplyr, readr, tidyr, data.table, lubridate, etc
+* SAS
 * **Apache Spark (Pyspark)**, **Hadoop**, Pig
 * **Deep Learning Frameworks: Keras, TensorFlow (plans to move to PyTorch)**
 * Databases: Hbase, **Hive**, **MongoDB**, Neo4j
@@ -26,8 +27,8 @@ Above all, he is an **avid learner of all things data science**. Currently, he i
 * **PALO IT** (Jul 2018 - Present): Data Scientist
    * POCs for OCR, Object Detection, Sentiment Analysis (NLP)
 * **DBS Bank** (Oct 2016 - Jul 2018): Data Scientist
-   * (**SG DBS Recommender System**) Revamped how advertisements were recommended to internet/mobile banking customers from a rule based approach to a deep learning model. Spearheaded the implementation of <a href="https://arxiv.org/pdf/1606.07792.pdf">Wide and Deep Learning model</a> from scratch using Keras.
-   * (**CN DBS Recommender System**) User-Based Collaborative Filtering (UBCF) model for DBS China's Relationship Managers.
+   * (**SG DBS Recommender System**) Revamped how advertisements were recommended to internet/mobile banking customers from a rule based approach to a deep learning model. Spearheaded the implementation of <a href="https://arxiv.org/pdf/1606.07792.pdf">Wide and Deep Learning model</a> from scratch using Keras, Python.
+   * (**CN DBS Recommender System**) Built a user-Based Collaborative Filtering (UBCF) model for DBS China's Relationship Managers to recommend new products to walk-in clients. Built on R.
    * (**ML Pipeline**) Initiated a project to build an automated ML pipeline consisting of data input, feature selection, model training/selection and evaluation. Built using H2O and Shiny on R.
    * (**SG DBS Marketing**) Various propensity models for DBS Credit, Cards, Treasures, etc. 
    * (**HK DBS Marketing**) Various propensity models for DBS Treasures and Unit Trusts.
@@ -46,4 +47,4 @@ Above all, he is an **avid learner of all things data science**. Currently, he i
 
 ## Interested to Get Touch?
 
-Add me at  [LinkedIn](https://www.linkedin.com/in/nhanwei/){: .btn}
+Add me on  [LinkedIn](https://www.linkedin.com/in/nhanwei/){: .btn}
