@@ -7,6 +7,8 @@ tags: [opinion]
 comments: true
 ---
 
+# *DRAFT*
+
 ## 1. Intent
 1. A retrospection on my Data Science(DS) journey for the past 5 years.
 2. To motivate aspiring data practitioners. I think it is helpful to go through someone else's journey.
@@ -78,6 +80,6 @@ It was at DBS Bank where I immensely honed my skills in practical ML. I was invo
 
 It was also at DBS Bank where I got into building my first recommender system under the mentorship of one of the seniors. I built a simple model in China DBS for the relationship managers. When I came back, I was tasked to build another recommender system completely on my own as the sole contributor (*That senior left the bank shortly after I returned to SG.*) It was difficult at first because no one else in the team had any idea how to help or build one. It was after reading a lot of papers and articles that I managed to find and implement a deep learning model that outperforms the old rule based model and fulfil multiple business requirements. 
 
-
+At DBS, I learnt a lot about different financial products, building marketing propensity models and recommender systems. My experiences also showed me the importance of aligning the model with business outcomes. 
 
 
