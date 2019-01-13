@@ -102,7 +102,11 @@ That was a pretty detailed recollection of how I got started and most of the thi
 ## 7. Links
 
 <a href="https://www.coursera.org/learn/machine-learning">Prof Andrew Ng's Machine Learning MOOC on Coursera</a>
+
 <a href="https://www.coursera.org/specializations/jhu-data-science">Data Science Specialisation taught by Johns Hopkins University</a>
+
 <a href="https://www.kaggle.com/">Kaggle</a> 
+
 <a href="https://www.comp.nus.edu.sg/programmes/ug/ba/curr/">Bachelor of Science in Business Analytics</a>
+
 <a href="https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you">So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love</a>
