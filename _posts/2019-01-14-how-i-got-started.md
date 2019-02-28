@@ -16,7 +16,7 @@ New year, new plans, new to-do list, and an opportune time to start something co
 
 ## 2. Conundrums (2014)
 
-*<center>This section covers how I was introduced to this field and my thought processes in deciding a career path.</center>*
+**<center>This section covers how I was introduced to this field and my thought processes in deciding a career path.</center>**
 
 I first read about **big data** during my 2nd year's internship at Singapore Police Force in 2013. It was an internship on "Big Data in Policing" where I had to do a lot of reading on the subject matter. It was at that time when I learnt of **big data analytics** which was an up-and-coming field (at that time) that is an amalgamation of **Statistics**, **Computer Science** and **Business Domain Knowledge**. That piqued my interest because it contains two of my favourite things, Statistics and Programming. 
 
@@ -50,7 +50,7 @@ So anyway, I planned and studied the career planning problem logically. I was al
 
 ## 3. Action (2014 - 2015)
 
-*<center>This section covers how I recognised that I won't be able to land a DS job unless I put in extra effort outside the school and what I did in response to that. It also briefly covers my experience in getting my first job.</center>*
+**<center>This section covers how I recognised that I won't be able to land a DS job unless I put in extra effort outside the school and what I did in response to that. It also briefly covers my experience in getting my first job.</center>**
 
 Back then there wasn't a major for Data Analytics in National University of Singapore(NUS)(They came up with Business Analytics in 2015 after I graduated.) At that time I felt that whatever I have learnt in NUS still did not prepare me for a career in DS. It was never meant to since it was only a major in Statistics. So during my India internship, I also went ahead and enrolled myself into **Prof Andrew Ng's Machine Learning MOOC on Coursera**. Till this day, even after taking more than 30 MOOCs since 2015, this MOOC remains the most important and impactful course for me. The fundamentals and theories of Machine Learning(ML) taught in the course continues to stay relevant to my work.
 
@@ -62,7 +62,7 @@ One of them was a statistician role at a Ministry in Singapore while the other r
 
 ## 4. StarHub (2015 - 2016)
 
-*<center>This section covers my key observations from StarHub on how a good role/job should have (at least to me). </center>*
+**<center>This section covers my key observations from StarHub on how a good role/job should have (at least to me). </center>**
 
 At StarHub, I was a data analyst in their relatively new data science team. There were a couple of things that I really liked about the team/role:
 * **Teammates**: Full of talented and motivated individuals/seniors who are so willing to share their knowledge and help out whenever they can. (*This is not easy to find*)
@@ -77,7 +77,7 @@ Strictly speaking, this role was missing the ML side of DS. So at the same time,
 
 ## 5. DBS (2016 - 2018)
 
-*<center>This section covers the main things I did at DBS Bank.</center>*
+**<center>This section covers the main things I did at DBS Bank.</center>**
 
 After 1.5 years at StarHub, I landed an opportunity for a data scientist role at DBS Bank. I would be in charge of supporting regional consumer banking group for the bank especially for Singapore, Hong Kong, Taiwan and China. Seeing that it is an ML role with greater responsibility, I took up the job immediately.
 
