@@ -48,7 +48,7 @@ Initially, I took up Statistics not because I knew I was passionate about it (*I
 
 So anyway, I planned and studied the career planning problem logically. I was also brutally honest to myself and recognized what was my strengths/weaknesses. After considering all things, I roughly knew what I had to do and the next step was to decide on a path and stick to it.
 
-## 3. ACTION (2014 - 2015)
+## 3. Action (2014 - 2015)
 
 *<center>This section covers how I recognised that I won't be able to land a DS job unless I put in extra effort outside the school and what I did in response to that. It also briefly covers my experience in getting my first job.</center>*
 
