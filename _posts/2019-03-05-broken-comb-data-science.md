@@ -7,7 +7,7 @@ tags: [opinion]
 comments: false
 ---
 
-Over the past 1 month, I had the opportunity to talk about data science (DS) with people from many different walks of life. They ranged from developers, senior technical leaders, recent graduates, mid-career switchers and aspiring data scientists. While I think it is okay for diverse opinions, it is still necessary to firm up the key details regarding some areas of this field. This post will talk about how a modern data scientist should be (in my opinion). I will write this post with the following intents.
+Over the past 1 month, I had the opportunity to talk about data science (DS) with people from many different walks of life. They ranged from developers, senior technical leaders, recent graduates, mid-career switchers and aspiring data scientists. While I think it is okay for diverse opinions, it is still necessary to firm up the key details regarding some areas of this field. This post will talk about how a modern data scientist should be (in my opinion). I will also write about how you can get started. I will write this post with the following intents.
 
 ## 1. Intents
 1. Some common misconceptions of DS.
