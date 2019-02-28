@@ -17,11 +17,11 @@ Over the past 1 month, I had the opportunity to talk about data science (DS) wit
 
 ## 2. Some common misconceptions of DS
 
-**<center>It's all about the cool machine learning algorithms!</center>**
+**<center>Myth 1: It's all about the cool machine learning algorithms!</center>**
 
 A common misconception of DS is that it is all about the ML algorithms. Oftentimes, many places choose to focus only on the juicy and exciting topics. Usually, they focus on new ML algorithms with futuristic names, new real-life application of DS, how AI can replace humans or promising improved results from some research programme. What they fail to write about are the unglamorous chores such as data pre-processing, feature engineering and exploratory data analysis. This is the bulk of the work in a data science project and is mission-critical to the success of the algorithms that comes much later. As a rough gauge, this usually takes up 70% of a data scientist's time on a project. 
 
-**<center>As long as the project involves data, we need a data scientist!</center>**
+**<center>Myth 2: As long as the project involves data, we need a data scientist!</center>**
 
 For those unfamiliar with DS, it may seem that anything and everything that involves data requires a data scientist. I feel that this stems from the confusion between DS and Business Intelligence (BI) which people are generally more familiar with. In BI, it is more for **Descriptive Analytics** or reporting. I.e. I'm trying to describe the past year financial performance. In DS, we are more concerned about **Predictive Analytics** or **Prescriptive Analytics**. I.e. I want to predict customer churn. 
 
@@ -31,7 +31,7 @@ In DS, it is not just about prediction. We have also become more concerned about
 
 I may have delved too much into this. However, the key point is that sometimes, what you need is not a data scientist but a data analyst or business analyst.
 
-**<center>Data Scientists must know fancy visualisations!</center>**
+**<center>Myth 3: Data Scientists must know fancy visualisations!</center>**
 
 In DS, a lot of data scientists usually do not go beyond the usual scatter plots, bar charts and line graphs. Basically, we use most of the graphics you can find in Microsoft Excel (We use Python or R to generate these plots). Sometimes we may use the occasional country/world maps, starplot, heatmaps or graph networks but that really depends on your domain (e.g. Telecomm, Transport).
 
