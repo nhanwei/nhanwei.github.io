@@ -11,7 +11,7 @@ Over the past 1 month, I had the opportunity to talk about data science (DS) wit
 
 ## 1. Intents
 1. Some common misconceptions of DS.
-2. Beyond the T-shape: Why you should follow the broken comb instead(for data scientists).
+2. Beyond the T-shape: Why you should follow the broken comb instead (for data scientists).
 3. Run-through of DS skills and tools
 4. Wow that sounds like a lot of ground to cover. How do I get started?
 
@@ -39,7 +39,7 @@ As I have mentioned, we spend the majority of our time pre-processing the data. 
 
 What about those fancy visualisations that you saw online? Probably done by a team of dedicated frontend developers.
 
-## 3. Beyond the T-shape: Why you should follow the broken comb instead(for data scientists)
+## 3. Beyond the T-shape: Why you should follow the broken comb instead (for data scientists)
 
 **<center>T-shaped Data Scientists</center>**
 
