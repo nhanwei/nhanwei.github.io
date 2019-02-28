@@ -7,59 +7,107 @@ tags: [opinion]
 comments: false
 ---
 
-Over the past 1 month, I had the opportunity to talk data science(DS) with people from many different walks of life. They ranged from developers, senior technical leaders, recent graduates, mid career switchers and aspiring data scientists. While I think it is okay for diverse opinions, it is still necessary to firm up the key details regarding some areas of this field. I will write this post with the following intents.
+Over the past 1 month, I had the opportunity to talk data science(DS) with people from many different walks of life. They ranged from developers, senior technical leaders, recent graduates, mid career switchers and aspiring data scientists. While I think it is okay for diverse opinions, it is still necessary to firm up the key details regarding some areas of this field. This post will talk about how a modern data scientist should be(in my opinion). I will write this post with the following intents.
 
 ## 1. Intents
 1. Some common misconceptions of DS.
-2. Beyond the T-shape: Why you should follow the broken comb instead(for DS).
+2. Beyond the T-shape: Why you should follow the broken comb instead(for data scientists).
 3. Run-through of DS skills and tools
 
 ## 2. Some common misconceptions of DS
 
-**<center>It's all about the cool Machine Learning(ML) algorithms!</center>**
+**<center>It's all about the cool machine learning algorithms!</center>**
 
-A common misconception of DS is that it is all about the ML algorithms. Oftentimes, many places choose to focus only on the juicy and exciting topics. Usually they focus on new ML algorithms, new real-life application of DS, how AI can replace humans or promising improved results from some research programme. What they fail to write about are the unglamorous chores such as data pre-processing, feature engineering and exploratory data analysis. This is the bulk of the work in a data science project and is mission-critical to the success of the algorithms that comes much later. As a rough gauge, this usually takes up 70% of a data scientist's time on a project. 
+A common misconception of DS is that it is all about the ML algorithms. Oftentimes, many places choose to focus only on the juicy and exciting topics. Usually they focus on new ML algorithms with futuristic names, new real-life application of DS, how AI can replace humans or promising improved results from some research programme. What they fail to write about are the unglamorous chores such as data pre-processing, feature engineering and exploratory data analysis. This is the bulk of the work in a data science project and is mission-critical to the success of the algorithms that comes much later. As a rough gauge, this usually takes up 70% of a data scientist's time on a project. 
 
 **<center>As long as the project involves data, we need a data scientist!</center>**
 
 For those unfamiliar with DS, it may seems that anything and everything that involves data requires a data scientist. I feel that this stems from the confusion between DS and Business Intelligence(BI) which people are generally more familiar with. In BI, it is more for **Descriptive Analytics** or reporting. I.e. I'm trying to describe the past year financial performance. In DS, we are more concerned about **Predictive Analytics** or **Prescriptive Analytics**. I.e. I want to predict customer churn. 
 
-While there is a difference, I do agree that there are some overlaps between BI and DS. E.g. Business analysts also do revenue forecasting. Isn't that predictive analytics? Well, what happens if you have to  incorporate text and image data collected from your company's facebook page? Can your traditional BI tools handle anything other than tabular data? 
+While there is a difference, I do agree that there are some overlaps between BI and DS. E.g. Business analysts also do revenue forecasting. Isn't that predictive analytics? Well, what happens if you have to incorporate text and image data collected from your company's facebook page? Can your traditional BI tools handle anything other than tabular data? 
 
-In DS, we have become more concerned about unstructured data (e.g. text, audio, image) which has formed the main bulk of data existing in the world today. The volume and velocity of data collected and waiting for processing each day is of a completely different scale. Think quarterly sales reporting versus the number of tweets on Twitter per day.
+In DS, we have become more concerned about unstructured data (e.g. text, audio, image) which has formed the main bulk of data existing in the world today. The sheer volume and velocity of data collected and waiting for processing each day is of a completely different scale. Think quarterly sales reporting versus the number of tweets on Twitter per day.
 
 I may have delved too much into this. However, the key point is that sometimes, what you need is not a data scientist but a data analyst or business analyst.
 
 **<center>Data Scientists must know fancy visualisations!</center>**
 
-In DS, a lot of data scientists usually do not go beyond the usual scatter plots, bar charts and line graphs. Basically most of the graphics you can find in Microsoft Excel (Although we use Python or R to generate these plots). Sometimes we may use the occasional country/world maps, heatmaps or graph networks which really depends on your domain (e.g. Telecomm, Transport).
+In DS, a lot of data scientists usually do not go beyond the usual scatter plots, bar charts and line graphs. Basically we use most of the graphics you can find in Microsoft Excel(We use Python or R to generate these plots). Sometimes we may use the occasional country/world maps, starplot, heatmaps or graph networks but that really depends on your domain (e.g. Telecomm, Transport).
 
-As I have mentioned, we spend a majority of our time pre-processing the data. Usually for this stage, we will use simple graphs like bi-variate plots. We also plot graphs for model evaluations. Most data scientists do not have the time to design meticulous interactive graphics. Neither is it part of our core skillset (Just find a few job descriptions). Those fancy visualisations that you saw online? Probably done by a team of dedicated frontend developers.
+As I have mentioned, we spend a majority of our time pre-processing the data. Usually for this stage, we will use simple graphs like bi-variate plots to analyse the relationship between features and target. We also plot graphs for model evaluations(e.g. lift charts, ROC). Most data scientists do not have the time to design fluid and interactive graphics. Neither is it part of our core skillset (Just look at a few job descriptions). 
 
-## 3. Beyond the T-shape: Why you should follow the broken comb instead(for DS)
+What about those fancy visualisations that you saw online? Probably done by a team of dedicated frontend developers.
+
+## 3. Beyond the T-shape: Why you should follow the broken comb instead(for data scientists)
+
+**<center>T-shaped Data Scientists</center>**
+
 ![t-shape]({{ site.baseurl }}/assets/img/t_shape.png "T-shape")
-*image credit: futurice*
+*<center>image credit: futurice</center>*
 
+A lot of people are T-shaped people. T-shaped people are people with deep expertise in a particular area and he also has the breadth to understand the bigger picture. You can think of this guy as the "**Jack of many trades, master of one**". Having the breadth helps because you can stay engaged in a conversation with your broad knowledge without sounding ignorant. 
 
+As someone who has been in this data science field for the past 4-5 years, I see DS as a cross-disciplinary field with several pillars of knowledge:
+
+* Statistics/Mathematics/Machine Learning (*Even within machine learning, there are several pillars*)
+* Business Acumen/Domain Knowledge
+* Big Data Infrastructure
+* Coding
+* Communication/Soft Skills
+
+In the past, we used to say that it is like finding a unicorn to meet someone with all pillars of expertises. However, I feel that the industry generally expects data scientists to know at least a large majority of them. I.e. You need to know 1) how to design and code dedicated deep learning architecture; 
+2) code in the most computationally efficient way; 
+3) understand how the backend data ingestion work so that your model works with them; 
+4) communicate with business users, grasp the business problem and present results to laymen. 
+While this is mostly unrealistic, I feel that this will be something data scientists should be working towards. The T-shaped model is not good enough.
+
+**<center>Broken-Comb Data Scientists</center>**
+
+![broken-comb]({{ site.baseurl }}/assets/img/broken_comb_people.jpg "Broken Comb")
+*This image was for Design/Marketing. Replace the words in the image with words from the pillars of knowledge I mentioned above.*
+
+**Broken Comb people are like T-shaped people on overdrive.** Broken comb people do not stop and rest on their laurels after gaining a deep area of expertise and broad breadth. **Learning in depth** does not stop for these people. They are constantly learning, improving and going deeper than expected. While this broken comb concept is still relatively new, I do think that this will be the standard expectation, especially since we live in an age where information is ubiquitious. **Finding many different information is easy. However, mastering all these different information is something else..**
+
+I feel that this is particular important for a data scientist. The DS field is moving very fast and new things are coming up all the time. It is not enough to just master the regular supervised/unsupervised machine learning algorithms. You have to pick up and master even more complicated algorithms like deep learning. By the time you understand deep learning to a certain level, maybe it is time to pick up reinforcement learning which has gained traction in recent years(remember AlphaGo). That is only in the area of machine learning. How about the other pillars that I mentioned about? What about data engineering? Just because it is a separate jobscope does not mean that you can ignore it. You have to pick that up gradually as well.
+
+**Having said all these, in reality, nobody really expects to find someone with all these skillsets. Job descriptions are meant to be the best case scenario. In fact, hiring managers are having a tough time finding people and they usually settle for people with SOME of the skillsets.**
 
 ## 4. Run-through of DS skills and tools
 
+**<center>A non-exhaustive list off the top of my head. TAKE NOTE: You are NOT expected to know everything to get started. </center>**
 
+* **Mathematics** 
+    * Linear Algebra
+    * Calculus
+* **Statistics**
+    * Probability theories
+    * Hypothesis testing
+    * Sampling
+* **Coding** 
+    * Python: scikit-learn, gensim, stanfordNLP, keras, lightGBM, pandas, numpy, dask, matplotlib, plotly, etc
+    * R: caret, randomforest, lubridate, dplyr, data.table, readr, plotly, ggplot, etc
+    * Tensorflow/PyTorch
+* Data Infrastructure/tools
+    * ETL, Hadoop, mapreduce, SQL databases, MongoDB, Neo4J, Apache Spark, Apache Pig, Apache Kafka, Apache Cassandra, Kubernetes, Docker, Cloud(AWS, MS Azure, GCP)
+* Machine Learning
+    * Pre-proprocessing, overfitting, model evaluation, model selection, bias-variance tradeoff, etc.
+    * Check out the sections and subsections <a href="https://scikit-learn.org/stable/user_guide.html">here</a> :) 
+    * Deep Learning: CNN, RNN, ANN, Transfer Learning, etc.
+    * Reinforcement Learning: Off-policy, on-policy, SARSA, Q-learning, function approximation
+    * Applications: Natural Language Processing, Computer Vision, Graph Networks, Recommender Systems, etc.
+* Soft Skills
+    * How to explain algorithms to a layman
+    * How to link business problem to data science
+    * How to convey results to business
 
-## 6. Summing Up
+The ones in **bold** are the fundamental topics you need to *get started*.
 
-That was a pretty detailed recollection of how I got started and most of the things I've in the past 4-5 years. I am definitely still not a very seasoned data practitioner (*I don't like the term data scientist.*) and there are just SO MANY areas to research and read up on. I still spend around 10-20 hours every week to read up and pick up new DS knowledge. 
+## 5. Wow that sounds like a lot of ground to cover. How do I get started?
 
-Thanks for reading the post. Hope it was informative and helped in some way! 
+Nevertheless, my career path has been an amazing journey for me and I had fun all the way. Data science is an exciting and lively field with tons of applications and career opportunities. I do not believe it is ever too late for something to get started but the approach will be a bit different depending on your unique backgrounds:
 
-## 7. Links
+* If you are still in school, consider taking up coding/mathematics/statistics classes regardless of your main study. E.g. You may be a psychology undergrad/grad, that doesn't mean that you can't transition into DS.
+* If you have just graduated and have some working experience, consider taking up MOOCs, Masters if it is within your budget(e.g. SMU MITB, NUS MSBA) or immerse and focused Bootcamps(e.g. <a href="https://metis.kaplan.com.sg/">Metis</a>). 
+* If you have graduated long time ago and have tons of working experience, consider Masters if it is within your budget or immerse and focused Bootcamps(e.g. <a href="https://metis.kaplan.com.sg/">Metis</a>). You will need more help from experienced instructors and you shouldn't be wasting time muddling around MOOCs or some technical masters. 
 
-<a href="https://www.coursera.org/learn/machine-learning">Prof Andrew Ng's Machine Learning MOOC on Coursera</a>
-
-<a href="https://www.coursera.org/specializations/jhu-data-science">Data Science Specialisation taught by Johns Hopkins University</a>
-
-<a href="https://www.kaggle.com/">Kaggle</a> 
-
-<a href="https://www.comp.nus.edu.sg/programmes/ug/ba/curr/">Bachelor of Science in Business Analytics</a>
-
-<a href="https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you">So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love</a>
+*Full disclosure: I will be teaching in the Metis Data Science Bootcamps*
