@@ -13,6 +13,7 @@ Over the past 1 month, I had the opportunity to talk about data science (DS) wit
 1. Some common misconceptions of DS.
 2. Beyond the T-shape: Why you should follow the broken comb instead(for data scientists).
 3. Run-through of DS skills and tools
+4. Wow that sounds like a lot of ground to cover. How do I get started?
 
 ## 2. Some common misconceptions of DS
 
