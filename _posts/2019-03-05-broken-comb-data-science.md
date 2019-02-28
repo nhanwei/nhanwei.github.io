@@ -105,3 +105,4 @@ Nevertheless, personally, my career path has been an <a href="https://nhanwei.gi
 I apologise if this post was a lot to digest. Whichever route you choose, don't procrastinate and start today. Feel free to send me an email or linkedin connection/message.
 
 *Full disclosure: I will be teaching in the Metis Data Science Bootcamps*
+
