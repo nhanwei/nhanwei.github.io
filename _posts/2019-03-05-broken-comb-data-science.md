@@ -27,7 +27,7 @@ For those unfamiliar with DS, it may seem that anything and everything that invo
 
 While there is a difference, I do agree that there are some overlaps between BI and DS. E.g. Business analysts also do revenue forecasting. Isn't that predictive analytics? Well, what happens if you have to incorporate text and image data collected from your company's Facebook page? Can your traditional BI tools handle anything other than tabular data? 
 
-In DS, we have become more concerned about unstructured data (e.g. text, audio, image) which has formed the main bulk of data existing in the world today. The sheer volume and velocity of data collected and waiting for processing each day are of a completely different scale. Think quarterly sales reporting versus the number of tweets on Twitter per day.
+In DS, it is not just about prediction. We have also become more concerned about unstructured data (e.g. text, audio, image) which has formed the main bulk of data existing in the world today. The sheer volume and velocity of data collected and waiting for processing each day are of a completely different scale. Think quarterly sales reporting versus the number of tweets on Twitter per day.
 
 I may have delved too much into this. However, the key point is that sometimes, what you need is not a data scientist but a data analyst or business analyst.
 
