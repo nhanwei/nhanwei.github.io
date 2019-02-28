@@ -34,7 +34,7 @@ In DS, a lot of data scientists usually do not go beyond the usual scatter plots
 As I have mentioned, we spend a majority of our time pre-processing the data. Usually for this stage, we will use simple graphs like bi-variate plots. We also plot graphs for model evaluations. Most data scientists do not have the time to design meticulous interactive graphics. Neither is it part of our core skillset (Just find a few job descriptions). Those fancy visualisations that you saw online? Probably done by a team of dedicated frontend developers.
 
 ## 3. Beyond the T-shape: Why you should follow the broken comb instead(for DS)
-<img src="assets/img/t_shape.png" alt="hi" class="inline"/>
+<img src="https://github.com/nhanwei/nhanwei.github.io/blob/master/assets/img/t_shape.png" alt="hi" class="inline"/>
 
 
 ## 4. Run-through of DS skills and tools
