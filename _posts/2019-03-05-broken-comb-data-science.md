@@ -55,10 +55,12 @@ As someone who has been in this data science field for the past 4-5 years, I see
 * Coding
 * Communication/Soft Skills
 
-In the past, we used to say that it is like finding a unicorn to meet someone with all pillars of expertises. However, I feel that the industry generally expects data scientists to know at least a large majority of them. I.e. You need to know 1) how to design and code dedicated deep learning architecture; 
-2) code in the most computationally efficient way; 
-3) understand how the backend data ingestion work so that your model works with them; 
-4) communicate with business users, grasp the business problem and present results to laymen. 
+In the past, we used to say that it is like finding a unicorn to meet someone with all pillars of expertises. However, I feel that the industry generally expects data scientists to know at least a large majority of them. I.e. You need to know 
+
+1. how to design and code dedicated deep learning architecture; 
+2. code in the most computationally efficient way; 
+3. understand how the backend data ingestion work so that your model works with them; 
+4. communicate with business users, grasp the business problem and present results to laymen. 
 While this is mostly unrealistic, I feel that this will be something data scientists should be working towards. The T-shaped model is not good enough.
 
 **<center>Broken-Comb Data Scientists</center>**
