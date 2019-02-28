@@ -36,7 +36,6 @@ As I have mentioned, we spend a majority of our time pre-processing the data. Us
 ## 3. Beyond the T-shape: Why you should follow the broken comb instead(for DS)
 ![t-shape]({{ site.baseurl }}/assets/img/t_shape.png "T-shape")
 
-
 ## 4. Run-through of DS skills and tools
 
 
