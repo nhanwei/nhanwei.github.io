@@ -45,7 +45,7 @@ What about those fancy visualisations that you saw online? Probably done by a te
 ![t-shape]({{ site.baseurl }}/assets/img/t_shape.png "T-shape")
 *<center>image credit: futurice</center>*
 
-A lot of people are T-shaped people. T-shaped people are people with deep expertise in a particular area and he also has the breadth to understand the bigger picture. You can think of this guy as the "**Jack of many trades, master of one**". Having the breadth helps because you can stay engaged in a conversation with your broad knowledge without sounding ignorant. 
+A lot of people are T-shaped people. T-shaped people are people with deep expertise in a particular area and he also has the breadth to understand the bigger picture. You can think of this guy as the "**Jack of many trades, master of one**". Having the breadth helps because you can stay engaged in a conversation with your broad knowledge without sounding ignorant. A T-shaped data scientist is someone who has worked on a particular application of data science for a long time with some knowledge in other areas. E.g. You have been building Natural Language Processing models for some time and you also roughly know something about other areas like computer vision, data engineering, etc.
 
 As someone who has been in this data science field for the past 4-5 years, I see DS as a cross-disciplinary field with several pillars of knowledge:
 
