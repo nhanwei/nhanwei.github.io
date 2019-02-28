@@ -33,7 +33,7 @@ I may have delved too much into this. However, the key point is that sometimes, 
 
 **<center>Data Scientists must know fancy visualisations!</center>**
 
-In DS, a lot of data scientists usually do not go beyond the usual scatter plots, bar charts and line graphs. Basically, we use most of the graphics you can find in Microsoft Excel(We use Python or R to generate these plots). Sometimes we may use the occasional country/world maps, starplot, heatmaps or graph networks but that really depends on your domain (e.g. Telecomm, Transport).
+In DS, a lot of data scientists usually do not go beyond the usual scatter plots, bar charts and line graphs. Basically, we use most of the graphics you can find in Microsoft Excel (We use Python or R to generate these plots). Sometimes we may use the occasional country/world maps, starplot, heatmaps or graph networks but that really depends on your domain (e.g. Telecomm, Transport).
 
 As I have mentioned, we spend the majority of our time pre-processing the data. Usually, for this stage, we will use simple graphs like bi-variate plots to analyse the relationship between features and target. We also plot graphs for model evaluations(e.g. lift charts, ROC). Most data scientists do not have the time to design fluid and interactive graphics. Neither is it part of our core skill set (Just look at a few job descriptions). 
 
