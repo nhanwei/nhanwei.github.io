@@ -56,14 +56,7 @@ As someone who has been in this data science field for the past 4-5 years, I see
 * Coding
 * Communication/Soft Skills
 
-In the past, we used to say that it is like finding a unicorn to meet someone with all pillars of expertise. However, I feel that the industry generally expects data scientists to know at least a large majority of them. I.e. You need to know 
-
-1. how to design and code dedicated deep learning architecture; 
-2. code in the most computationally efficient way; 
-3. understand how the backend data ingestion work so that your model works with them; 
-4. communicate with business users, grasp the business problem and present results to laymen. 
-
-While this is mostly unrealistic, I feel that this will be something data scientists should be working towards. The T-shaped model is not good enough.
+While knowing everything is quite unrealistic, I feel that this will be something data scientists should be working towards. The T-shaped model is not good enough.
 
 **<center>Broken-Comb Data Scientists</center>**
 
@@ -78,26 +71,21 @@ I feel that this is particularly important for a data scientist. The DS field is
 
 ## 4. Run-through of DS skills and tools
 
-**<center>A non-exhaustive list off the top of my head. TAKE NOTE: You are NOT expected to know everything to get started. </center>**
+**<center>A high level and non-exhaustive list off the top of my head. TAKE NOTE: You are NOT expected to know everything to get started. </center>**
 
 * **Mathematics** 
     * Linear Algebra
     * Calculus
 * **Statistics**
-    * Probability theories
+    * Probability 
     * Hypothesis testing
     * Sampling
 * **Coding** 
-    * Python: scikit-learn, gensim, stanfordNLP, keras, lightGBM, pandas, numpy, dask, matplotlib, plotly, etc
-    * R: caret, randomforest, lubridate, dplyr, data.table, readr, plotly, ggplot, etc
-    * Tensorflow/PyTorch
+    * Python or R
 * Data Infrastructure/tools
-    * ETL, Hadoop, mapreduce, SQL databases, MongoDB, Neo4J, Apache Spark, Apache Pig, Apache Kafka, Apache Cassandra, Kubernetes, Docker, Cloud(AWS, MS Azure, GCP)
+    * Databases, data processing tools, etc.
 * Machine Learning
-    * Pre-preprocessing, overfitting, model evaluation, model selection, bias-variance tradeoff, etc.
-    * Check out the sections and subsections <a href="https://scikit-learn.org/stable/user_guide.html">here</a> :) 
-    * Deep Learning: CNN, RNN, ANN, Transfer Learning, etc.
-    * Reinforcement Learning: Off-policy, on-policy, SARSA, Q-learning, function approximation
+    * Supervised and Unsupervised learning: See <a href="https://scikit-learn.org/stable/user_guide.html">here</a> :) 
     * Applications: Natural Language Processing, Computer Vision, Graph Networks, Recommender Systems, etc.
 * Soft Skills
     * How to explain algorithms to a layman
