@@ -61,6 +61,7 @@ In the past, we used to say that it is like finding a unicorn to meet someone wi
 2. code in the most computationally efficient way; 
 3. understand how the backend data ingestion work so that your model works with them; 
 4. communicate with business users, grasp the business problem and present results to laymen. 
+
 While this is mostly unrealistic, I feel that this will be something data scientists should be working towards. The T-shaped model is not good enough.
 
 **<center>Broken-Comb Data Scientists</center>**
@@ -92,7 +93,7 @@ I feel that this is particular important for a data scientist. The DS field is m
 * Data Infrastructure/tools
     * ETL, Hadoop, mapreduce, SQL databases, MongoDB, Neo4J, Apache Spark, Apache Pig, Apache Kafka, Apache Cassandra, Kubernetes, Docker, Cloud(AWS, MS Azure, GCP)
 * Machine Learning
-    * Pre-proprocessing, overfitting, model evaluation, model selection, bias-variance tradeoff, etc.
+    * Pre-preprocessing, overfitting, model evaluation, model selection, bias-variance tradeoff, etc.
     * Check out the sections and subsections <a href="https://scikit-learn.org/stable/user_guide.html">here</a> :) 
     * Deep Learning: CNN, RNN, ANN, Transfer Learning, etc.
     * Reinforcement Learning: Off-policy, on-policy, SARSA, Q-learning, function approximation
