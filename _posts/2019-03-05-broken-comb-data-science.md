@@ -7,7 +7,7 @@ tags: [opinion]
 comments: false
 ---
 
-Over the past month, I had the opportunity to talk about data science (DS) with people from many different walks of life. They ranged from developers, senior technical leaders, recent graduates, mid-career switchers and aspiring data scientists. While I think it is okay for diverse opinions, it is still necessary to firm up the key details regarding some areas of this field. This post will talk about what it means to be a data scientist (in my opinion). I will also write about how you can get started. I will write this post with the following intents.
+Over the past month, I had the opportunity to talk about data science (DS) with people from many different walks of life. They ranged from developers, senior technical leaders, recent graduates, mid-career switchers to aspiring data scientists. While I think it is acceptable to have a broad definition of data science, it is still necessary to establish some key concepts central to this field of study. This post will try to talk about what it means to be a data scientist (in my opinion). I will also write about how you can get started. I will write this post with the following intents.
 
 ## 1. Intents
 1. Some common misconceptions of DS.
@@ -19,7 +19,7 @@ Over the past month, I had the opportunity to talk about data science (DS) with 
 
 **<center>Myth 1: It's all about the cool machine learning algorithms!</center>**
 
-A common misconception of DS is that it is all about the ML algorithms. Oftentimes, many places choose to focus only on the juicy and exciting topics. Usually, they focus on new ML algorithms with futuristic names, new real-life application of DS, how AI can replace humans or promising improved results from some research programme. What they fail to write about are the unglamorous chores such as data pre-processing, feature engineering and exploratory data analysis. This is the bulk of the work in a data science project and is mission-critical to the success of the algorithms that comes much later. As a rough gauge, this usually takes up 70% of a data scientist's time on a project. 
+A common misconception of DS is that it is all about the ML algorithms. Oftentimes, many places choose to focus only on the juicy and exciting topics like new ML algorithms with futuristic names, new real-life application of DS, how AI can replace humans or promising improved results from some research programme. However, what they fail to write about are the unglamorous chores such as data pre-processing, feature engineering and exploratory data analysis. In reality, this is the bulk of the work in a data science project and is mission-critical to the success of the algorithms that comes much later. As a rough gauge, this usually takes up 70% of a data scientist's time on a project. 
 
 **<center>Myth 2: As long as the project involves data, we need a data scientist!</center>**
 
@@ -63,11 +63,11 @@ While knowing everything is quite unrealistic, I feel that this will be somethin
 ![broken-comb]({{ site.baseurl }}/assets/img/broken_comb_people.jpg "Broken Comb")
 *This image was for Design/Marketing. Replace the words in the image with words from the pillars of knowledge I mentioned above.*
 
-**Broken Comb people are like T-shaped people on overdrive.** Broken comb people do not stop and rest on their laurels after gaining a deep area of expertise and broad breadth. **Learning in depth** does not stop for these people. They are constantly learning, improving and going deeper than expected. While this broken comb concept is still relatively new, I do think that this will be the standard expectation, especially since we live in an age where information is ubiquitous. **Finding much different information is easy. However, mastering all these different information is something else..**
+**Broken Comb people are like T-shaped people on overdrive.** Broken comb people do not stop and rest on their laurels after gaining a deep area of expertise and broad breadth. **Learning in depth** does not stop for these people. They are constantly learning, improving and going deeper than expected. While this broken comb concept is still relatively new, I do think that this will be the standard expectation, especially since we live in an age where information is ubiquitous. **Finding information is easy. However, mastering all these information is something else..**
 
 I feel that this is particularly important for a data scientist. The DS field is moving very fast and new things are coming up all the time. It is not enough to just master the regular supervised/unsupervised machine learning algorithms. You have to pick up and master even more complicated algorithms like deep learning. By the time you understand deep learning to a certain level, maybe it is time to pick up reinforcement learning which has gained traction in recent years(remember AlphaGo). That is only in the area of machine learning. How about the other pillars that I mentioned about? What about data engineering? Just because it is a separate job scope does not mean that you can ignore it. You have to pick that up gradually as well.
 
-**Having said all these, in reality, nobody really expects to find someone with all these skill sets. Job descriptions are meant to be the best case scenario. In fact, hiring managers are having a tough time finding people and they usually settle for people with SOME of the skillsets.**
+**Having said all these, in reality, nobody really expects to find someone with all these skill sets in real life situations. Job descriptions are meant to be the best case scenario. In fact, hiring managers are having a tough time finding people and they usually settle for people with SOME of the skillsets.**
 
 ## 4. Run-through of DS skills and tools
 
