@@ -113,6 +113,6 @@ Nevertheless, personally, my career path has been an <a href="https://nhanwei.gi
 * If you have just graduated and had some working experience, consider taking up MOOCs, Masters if it is within your budget (e.g. SMU MITB, NUS MSBA) or immersive and focused Bootcamps (e.g. <a href="https://metis.kaplan.com.sg/">Metis</a>). I honestly feel that other technical masters will not automatically transition you into a data scientist.
 * If you have graduated a long time ago and have tons of working experience, consider Masters if it is within your budget (e.g. SMU MITB, NUS MSBA) or immersive and focused Bootcamps (e.g. <a href="https://metis.kaplan.com.sg/">Metis</a>). You will need more help from experienced instructors and you shouldn't be wasting time muddling around MOOCs or some technical masters. 
 
-I apologise if that was a lot to digest. Whichever route you choose, don't procrastinate and start today. Feel free to send me an email or linkedin connection/message.
+I apologise if this post was a lot to digest. Whichever route you choose, don't procrastinate and start today. Feel free to send me an email or linkedin connection/message.
 
 *Full disclosure: I will be teaching in the Metis Data Science Bootcamps*
