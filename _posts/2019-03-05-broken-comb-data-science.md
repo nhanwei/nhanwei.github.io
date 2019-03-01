@@ -7,7 +7,7 @@ tags: [opinion]
 comments: false
 ---
 
-Over the past month, I had the opportunity to talk about data science (DS) with people from many different walks of life. They ranged from developers, senior technical leaders, recent graduates, mid-career switchers to aspiring data scientists. While I think it is acceptable to have a broad definition of data science, it is still necessary to establish some key concepts central to this field of study. This post will try to talk about what it means to be a data scientist (in my opinion). I will also write about how you can get started. I will write this post with the following intents.
+Over the past month, I had the opportunity to talk about data science (DS) with people from many different walks of life. They ranged from developers, senior technical leaders, recent graduates, mid-career switchers to aspiring data scientists. While I think it is acceptable to have a broad definition of data science, it is still necessary to establish some key concepts central to this field of study. This post will try to talk about what it means to be a data scientist (in my opinion). I will also write about how you can get started (*I can't cover the whole topic in one post. I will be highlight more obvious ones*). This post will have the following intents.
 
 ## 1. Intents
 1. Some common misconceptions of DS.
@@ -96,13 +96,13 @@ The ones in **bold** are the fundamental topics you need to *get started*.
 
 ## 5. Wow that sounds like a lot of ground to cover. How do I get started?
 
-Nevertheless, personally, my career path has been an <a href="https://nhanwei.github.io//how-i-got-started/">amazing journey</a> for me and I had fun all the way. Data science is an exciting and lively field with tons of applications, tons of community support and career opportunities. I do not believe it is ever too late for something to get started but the approach will be a bit different depending on your unique backgrounds:
+I have previously shared about my career path and it has been an <a href="https://nhanwei.github.io//how-i-got-started/">amazing journey</a> for me and I had fun all the way. Data science is an exciting and lively field with tons of applications, tons of community support and career opportunities. I do not believe it is ever too late for something to get started but the approach will be a bit different depending on your unique backgrounds:
 
 * If you are still in school, consider taking up coding/mathematics/statistics classes regardless of your main study. E.g. You may be a psychology undergrad/grad, that doesn't mean that you can't transition into DS.
-* If you have just graduated and had some working experience, consider taking up MOOCs, Masters if it is within your budget (e.g. SMU MITB, NUS MSBA) or immersive and focused Bootcamps (e.g. <a href="https://metis.kaplan.com.sg/">Metis</a>). I honestly feel that other technical masters will not automatically transit you into a data scientist.
+* If you have just graduated and had some working experience, consider taking up MOOCs, Masters if it is within your budget (e.g. SMU MITB, NUS MSBA) or immersive and focused Bootcamps (e.g. <a href="https://metis.kaplan.com.sg/">Metis</a>). I honestly feel that other technical masters (like MCOMP, MTECH) will not automatically transit you into a data scientist.
 * If you have graduated a long time ago and have tons of working experience, consider Masters if it is within your budget (e.g. SMU MITB, NUS MSBA) or immersive and focused Bootcamps (e.g. <a href="https://metis.kaplan.com.sg/">Metis</a>). You will need more help from experienced instructors and you shouldn't be wasting time muddling around MOOCs or some technical masters. 
 
-I apologise if this post was a lot to digest. Whichever route you choose, don't procrastinate and start today. Feel free to send me an email or linkedin connection/message.
+I apologise if this post was a lot to digest. Whichever route you choose, don't procrastinate and start today. **Remember that nothing worth having comes easy**. 
 
-*Full disclosure: I will be teaching in the Metis Data Science Bootcamps*
+*Full disclosure: I will be teaching in the upcoming Metis Data Science Bootcamps. I also coach people for data science/Python/R. Feel free to say hello at nhanwei@gmail.com or linkedin connection/message to know more.*
 
