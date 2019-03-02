@@ -19,7 +19,7 @@ Over the past month, I had the opportunity to talk about data science (DS) with 
 
 **<center>Myth 1: It's all about the cool machine learning algorithms!</center>**
 
-A common misconception of DS is that it is all about the ML algorithms. Oftentimes, many places choose to focus only on the juicy and exciting topics like new ML algorithms with futuristic names, new real-life application of DS, how AI can replace humans or promising improved results from some research programme. However, what they fail to write about are the unglamorous chores such as data pre-processing, feature engineering and exploratory data analysis. In reality, this is the bulk of the work in a data science project and is mission-critical to the success of the algorithms that comes much later. As a rough gauge, this usually takes up 70% of a data scientist's time on a project. 
+A common misconception of DS is that it is all about the ML algorithms. Oftentimes, many places choose to focus only on the juicy and exciting topics like new ML algorithms with futuristic names, new real-life application of DS, how AI can replace humans or promising improved results from some research programme. However, what they fail to write about are the unglamorous chores such as data pre-processing, feature engineering and exploratory data analysis. In reality, this takes up the most amount of time/effort in a data science project and is mission-critical to the success of the algorithms that comes much later. As a rough gauge, this usually takes up 70% of a data scientist's time on a project. 
 
 **<center>Myth 2: As long as the project involves data, we need a data scientist!</center>**
 
