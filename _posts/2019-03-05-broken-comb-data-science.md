@@ -71,7 +71,7 @@ I feel that this is particularly important for a data scientist. The DS field is
 
 ## 4. Run-through of DS skills and tools
 
-**<center>A high level and non-exhaustive list off the top of my head. TAKE NOTE: You are NOT expected to know everything to get started. </center>**
+**<center>I'm not going to list down everything. This is a high level and non-exhaustive list off the top of my head. TAKE NOTE: You are NOT expected to know everything to get started. </center>**
 
 * **Mathematics** 
     * Linear Algebra
@@ -85,6 +85,7 @@ I feel that this is particularly important for a data scientist. The DS field is
 * Data Infrastructure/tools
     * Databases, data processing tools, etc.
 * Machine Learning
+    * How to build models
     * Supervised and Unsupervised learning: See <a href="https://scikit-learn.org/stable/user_guide.html">here</a> :) 
     * Applications: Natural Language Processing, Computer Vision, Graph Networks, Recommender Systems, etc.
 * Soft Skills
@@ -92,7 +93,7 @@ I feel that this is particularly important for a data scientist. The DS field is
     * How to link the business problem to data science
     * How to convey results to business
 
-The ones in **bold** are the fundamental topics you need to *get started*.
+The ones in **bold** are the foundations you need to *get started*.
 
 ## 5. Wow that sounds like a lot of ground to cover. How do I get started?
 
