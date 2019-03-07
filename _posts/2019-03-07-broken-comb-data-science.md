@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Broken Comb Data Scientists"
-date: 2019-03-05
+date: 2019-03-07
 excerpt: "Beyond the T-shape: Why you should follow the broken comb instead."
 tags: [opinion]
 comments: false
