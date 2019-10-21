@@ -1,50 +1,21 @@
 ---
 layout: page
-title: About Han Wei
+title: Hello!
 tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 comments: false
 ---
     
-## Personal Summary
+My name is Neo Han Wei. You can also call me Stan.
 
-Han Wei is a **technical expert in Machine Learning** with a professional passion in **connecting the dots between business users and techies.**
+I currently lead the [Metis Data Science Bootcamp](https://metis.kaplan.com.sg/) in Singapore. I teach and coach aspiring data scientists. I also run a small business [CodeAI](https://www.code-ai.co/) to teach more people coding. I spend the rest of my time at the intersection of ML, Product and Data Engineering, trying to integrate them as seamlessly as possible.
 
-He has strong hands-on experience in various areas of Data Science especially in **marketing analytics** and **recommender systems**. During his work, he has also **enjoyed short stints in Australia, China and India.**
+Previously, I built ML models in Singapore's largest bank [DBS](https://www.dbs.com.sg) for their regional markets. I revamped how the bank recommend products to customers by developing the bank's first [Deep Learning based Recommender System](https://arxiv.org/abs/1606.07792). 
 
-Above all, he is an **avid learner of all things data science**. Currently, he is interested in <a href="https://github.com/nhanwei/rl_1">**Transfer Learning and its application on Reinforcement Learning.** </a>
+I am currently working on my Masters in Computer Science at National University of Singapore (ETC end of 2019).
 
-## Key Data Science Toolkit
-* **Python**: **Keras**, **XGBoost**, **lightGBM**, Numpy, Pandas, Scipy, **Scikit-learn**, Matplotlib, **NLTK, StanfordNLP**, etc
-* **R**: **Caret**, H2O, shiny, ggplot2, **XGBoost**, dplyr, readr, tidyr, data.table, lubridate, etc
-* SAS
-* **Apache Spark (Pyspark)**, **Hadoop**, Pig
-* **Deep Learning Frameworks: Keras, TensorFlow (plans to move to PyTorch)**
-* Databases: Hbase, **Hive**, **MongoDB**, Neo4j
-* **Git**
+My hobbies come and go. Currently, I enjoy taking pictures, walking, cooking (and eating), aquascaping and optimizing my [RimWorld](https://store.steampowered.com/app/294100/RimWorld/). I also enjoy taking courses on ML, cloud and data engineering which I also consider as a hobby.
 
-## Work Journey
-* **PALO IT** (Jul 2018 - Present): Data Scientist
-   * POCs for OCR, Object Detection, Sentiment Analysis (NLP)
-* **DBS Bank** (Oct 2016 - Jul 2018): Data Scientist
-   * (**SG DBS Recommender System**) Revamped how advertisements were recommended to internet/mobile banking customers from a rule based approach to a deep learning model. Spearheaded the implementation of <a href="https://arxiv.org/pdf/1606.07792.pdf">Wide and Deep Learning model</a> from scratch using Keras, Python.
-   * (**CN DBS Recommender System**) Built a user-Based Collaborative Filtering (UBCF) model for DBS China's Relationship Managers to recommend new products to walk-in clients. Built on R.
-   * (**ML Pipeline**) Initiated a project to build an automated ML pipeline consisting of data input, feature selection, model training/selection and evaluation. Built using H2O and Shiny on R.
-   * (**SG DBS Marketing**) Various propensity models for DBS Credit, Cards, Treasures, etc. 
-   * (**HK DBS Marketing**) Various propensity models for DBS Treasures and Unit Trusts.
-   * (**CN DBS Marketing**) Bancassurance Propensity model
-* **StarHub** (Jun 2015 - Sep 2016): Data Analyst
-   * Data mined raw, unstructured and structured telecommunication data using Apache Spark, Apache Pig, R and Python.
-* ***National University of Singapore** (Oct 2014 - Feb 2015): Undergraduate Student Researcher*
-* ***Infosys** (Jun 2014 - Aug 2014): InStep Intern*
-   * Flagship global internship program of Infosys
-
-\**Undergraduate internship/part-time job*
-
-## Education
-* National University of Singapore (2018 - 2019): Master's in Computer Science, Computer Science (On-going)
-* National University of Singapore (2011 - 2015): B.Sc. (Hons.), Statistics, Second Class Honours, Upper Division
-
-## Interested to Get Touch?
+This is my [semi-updated resume](/assets/doc/resume_2019_v3.pdf) if you are into it.
 
 Add me on  [LinkedIn](https://www.linkedin.com/in/nhanwei/){: .btn}
