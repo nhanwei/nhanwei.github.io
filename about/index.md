@@ -14,7 +14,7 @@ Previously, I built ML models in Singapore's largest bank [DBS](https://www.dbs.
 
 I am currently working on my Masters in Computer Science at National University of Singapore (ETC end of 2019).
 
-My hobbies come and go. Currently, I enjoy taking pictures, walking, cooking (and eating), [aquascaping](/assets/doc/aquascape.png) and optimizing my [RimWorld](https://store.steampowered.com/app/294100/RimWorld/). I also enjoy taking courses on ML, cloud and data engineering which I also consider as a hobby.
+My hobbies come and go. Currently, I enjoy taking pictures, walking, cooking (and eating), [aquascaping](/assets/doc/aquascape.png) and optimizing my [RimWorld](https://store.steampowered.com/app/294100/RimWorld/). I also enjoy reading academic papers and taking courses on ML, cloud and data engineering which I also consider as hobbies.
 
 This is my [semi-updated resume](/assets/doc/resume_2019_v3.pdf) if you are into it.
 
