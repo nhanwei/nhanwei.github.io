@@ -1,0 +1,17 @@
+Searching 27 files for "post-title" (regex)
+
+/Users/hanweineo/Documents/nhanwei.github.io/_sass/print.scss:
+   19      border-color: $color_mischka;
+   20    }
+   21:   .post-title .btn,
+   22    .reading-time,
+   23    #dl-menu,
+
+/Users/hanweineo/Documents/nhanwei.github.io/_sass/typography.scss:
+   26  	}
+   27  }
+   28: .post-title {
+   29  	text-align: center;
+   30  	font-weight: bold;
+
+2 matches across 2 files
