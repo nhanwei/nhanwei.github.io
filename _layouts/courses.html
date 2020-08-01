@@ -67,18 +67,22 @@ layout: compress
                     </a>
                 </div>
 
-                <div>
-                    
-                    <p>Other than doing data science, I also provide the following services for corporate and individual customers:</p>
-                    
+                <div class="post-list">
                     <ul>
-                      <li>Python for Professionals: Introductory Python Coding course with no pre-requisites. [Click for Brochure](/assets/doc/python_professionals.pdf)</li>
-                      <li>Course Mapping for Government Funding</li>
-                      <li>Course Material Creation</li>
-                      <li>Career Workshops</li>
+                        <li class="wow fadeInLeft" data-wow-duration="1.5s">
+                            <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+                            <p>{{ post.excerpt }}</p>
+                            <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
+                        </li>
                     </ul>
-                
+                    <ul>
+                        <li class="wow fadeInLeft" data-wow-duration="1.5s">
+                            <a class="zoombtn" href="/assets/doc/python_professionals.pdf">Python for Professionals</a>
+                            <p>Introductory Python Coding course with no pre-requisites.</p>
+                        </li>
+                    </ul>
                 </div>
+                
             </div>
         </div>
     </header>
