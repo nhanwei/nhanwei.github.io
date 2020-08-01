@@ -221,11 +221,15 @@ header .entry-meta {
 }
 
 .rowcourse {
-  display: flex;
-  text-align: center;
+	display: flex;
+	text-align: center;
+	width: 250px;
+	height: 200px;
+	margin: 20px;
+	position: relative;
 }
 
 .columncourse {
-  flex: 33.33%;
-  padding: 30px;
+	flex: 33.33%;
+	padding: 30px;
 }
