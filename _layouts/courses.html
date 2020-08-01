@@ -26,6 +26,7 @@ layout: compress
                 <ul>
                   <li>Python Coding and Machine Learning Training (Scroll down for more)</li>
                   <li>Course Mapping for Government Funding</li>
+                  <li>Course Material Creation</li>
                   <li>Career Workshops</li>
                 </ul>
 
@@ -66,20 +67,15 @@ layout: compress
                     </a>
                 </div>
 
+                <h1>All Courses</h1> 
+                <ul>
+                  <li>Python for Professionals: Introductory Python Coding course with no pre-requisites. [Click for Brochure](/assets/doc/python_professionals.pdf)</li>
+                  <li>Course Mapping for Government Funding</li>
+                  <li>Course Material Creation</li>
+                  <li>Career Workshops</li>
+                </ul>
                 
-                <div class="post-list">
-                    {% for post in site.posts %} 
-                        {% if post.courses %}
-                    <ul>
-                        <li class="wow fadeInLeft" data-wow-duration="1.5s">
-                            <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
-                            <p>{{ post.excerpt }}</p>
-                            <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
-                        </li>
-                    </ul>
-                      {% endif %}
-                    {% endfor %}
-                </div>
+
             </div>
         </div>
     </header>

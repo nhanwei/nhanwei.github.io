@@ -1,6 +1,6 @@
 ---
 layout: courses
-title: All Courses
+title: Corporate and Individual Trainings
 excerpt: "A List of Courses"
 comments: false
 ---
