@@ -6,7 +6,7 @@ date: 2016-03-21
 comments: false
 ---
 
-<p><img src="/assets/img/logo.png" alt="Profile pic" class="center" width='100'></p>
+<p><img src="/assets/img/logo.png" alt="Profile pic" class="center" width='30'></p>
 
 My name is Neo Han Wei. You can also call me Stan.
 
