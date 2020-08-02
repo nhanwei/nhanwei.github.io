@@ -5,7 +5,9 @@ tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 comments: false
 ---
-    
+
+<p><img src="/assets/img/logo.jpg" alt="Profile pic" class="center"></p>
+
 My name is Neo Han Wei. You can also call me Stan.
 
 I currently lead the [Metis Data Science Bootcamp](https://metis.kaplan.com.sg/) in Singapore. I teach and coach aspiring data scientists. I also do freelance corporate and individual training for Python coding and Machine Learning. I spend the rest of my time at the intersection of ML, Product and Data Engineering, trying to integrate them as seamlessly as possible. I am also very interested in cloud technologies and got myself AWS certified earlier this year.
