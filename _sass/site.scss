@@ -15,9 +15,9 @@ body {
 	font-family: $font1;
 	@include font-rem($doc-font-size);
 	color: $color_tuatara;
-	background-color: $bodycolor;
-	background-position: center center;
-	background-attachment: fixed;
+        background: linear-gradient(135deg, #3c41a1, #6c5ce7);
+        background-position: center center;
+        background-attachment: fixed;
 	@media #{$small} {
 	    background-image: none !important;
 		background: $white;
