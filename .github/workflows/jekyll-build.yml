@@ -15,10 +15,13 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.1' # Use a Ruby version compatible with Jekyll 3.9.x or the github-pages gem
-          bundler-cache: true # runs bundle install and caches gems
+          bundler-cache: false # we'll run bundle install after adding the Linux platform
 
       - name: Add Linux platform to Gemfile.lock
         run: bundle lock --add-platform x86_64-linux
+
+      - name: Install dependencies
+        run: bundle install --jobs 4 --retry 3
 
       - name: Build Jekyll site
         run: bundle exec jekyll build
