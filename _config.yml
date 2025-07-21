@@ -3,3 +3,12 @@ title: "Stan Neo - Career and Consulting Services"
 description: Coaching, Mock Interviews, CV Reviews, and more.
 url: "https://nhanwei.github.io" 
 github_username: nhanwei
+exclude:
+  - node_modules
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - package.json
+  - package-lock.json
+  - postcss.config.js
+  - tailwind.config.js
