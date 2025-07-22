@@ -5,19 +5,33 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title | default: site.title }}</title>
   <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="stylesheet" href="/assets/css/main.css">
 </head>
 <body class="bg-gray-100">
 
   <header class="bg-white shadow-md sticky top-0 z-50 transition-transform duration-300 ease-in-out">
     <nav class="container mx-auto px-4 py-4 flex justify-between items-center">
       <a href="/" class="text-lg md:text-xl font-bold">{{ site.title }}</a>
-      <div class="flex gap-4">
+      <div class="hidden md:flex gap-4">
         <a href="/#about" class="text-xs md:text-base text-gray-600 hover:text-gray-900">About Stan Neo</a>
         <a href="/#benefits" class="text-xs md:text-base text-gray-600 hover:text-gray-900">Why Work With Me?</a>
         <a href="/#services" class="text-xs md:text-base text-gray-600 hover:text-gray-900">Services</a>
         <a href="/#testimonials" class="text-xs md:text-base text-gray-600 hover:text-gray-900">Testimonials</a>
       </div>
+      <div class="md:hidden">
+        <button id="menu-btn" class="hamburger focus:outline-none">
+          <span class="hamburger-top"></span>
+          <span class="hamburger-middle"></span>
+          <span class="hamburger-bottom"></span>
+        </button>
+      </div>
     </nav>
+    <div id="menu" class="hidden md:hidden flex flex-col items-center py-4 space-y-4 bg-white">
+      <a href="/#about" class="text-gray-600 hover:text-gray-900">About Stan Neo</a>
+      <a href="/#benefits" class="text-gray-600 hover:text-gray-900">Why Work With Me?</a>
+      <a href="/#services" class="text-gray-600 hover:text-gray-900">Services</a>
+      <a href="/#testimonials" class="text-gray-600 hover:text-gray-900">Testimonials</a>
+    </div>
   </header>
 
   <main>
@@ -43,6 +57,14 @@
       }
       lastScrollTop = scrollTop <= 0 ? 0 : scrollTop;
     });
+
+    const btn = document.getElementById('menu-btn')
+    const menu = document.getElementById('menu')
+
+    btn.addEventListener('click', () => {
+      btn.classList.toggle('open')
+      menu.classList.toggle('hidden')
+    })
   </script>
 
 </body>
